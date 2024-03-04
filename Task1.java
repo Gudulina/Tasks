@@ -1,5 +1,9 @@
 import java.util.Scanner;
-// Комментарий
+
+/* Комментарий
+=======
+Другой комментарий.*/
+
 public class Task1 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
